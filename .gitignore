@@ -1,0 +1,8 @@
+data/raw/
+data/harmonised/
+data/processed/
+__pycache__/
+*.pyc
+*.parquet
+*.csv
+.env
