@@ -6,3 +6,4 @@ __pycache__/
 *.parquet
 *.csv
 .env
+models_saved/*.pkl
