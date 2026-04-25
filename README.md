@@ -1,6 +1,6 @@
 # Financial Inclusion & Mobile Money Analytics
 
-**Live demo:** https://drnsmith-financial-inclusion-analytics.hf.space
+**Live demo:** [https://drnsmith-financial-inclusion-analytics.hf.space](https://huggingface.co/spaces/drnsmith/financial-inclusion-analytics)
 
 ---
 
